@@ -9,7 +9,7 @@ function greetProgrammer() {
 
 /*
   You should be able to call this function with one argument and see its output in the terminal:
-  greet("Naureen");
+  greet("Naureen");   
   => "Hello, Naureen!"
 */
 function greet(name) {
